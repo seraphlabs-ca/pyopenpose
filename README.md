@@ -1,0 +1,1 @@
+A Python wrapper around [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) library
